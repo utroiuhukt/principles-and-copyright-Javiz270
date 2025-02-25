@@ -42,3 +42,5 @@ While **open source** and **free software** often refer to similar types of soft
 - **Open source** prioritizes **development efficiency and transparency**.
 
 In practice, most free software is also open source, and vice versa. However, the difference lies in the under the motivations behind them.
+
+=========================================
